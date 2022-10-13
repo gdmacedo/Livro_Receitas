@@ -4,14 +4,23 @@
 
 ## Ingredientes
 100 g de manteiga com sal
+
 3 dentes de alho
+
 1 cebola média picada
+
 100g de bacon
+
 100g calabresa ralada
+
 2 ovos
+
 3 colheres (sopa) de salsinha
+
 3 colheres (sopa) farinha de linhaça
+
 3 xícaras de farinha de milho amarela
+
 sal e pimenta a gosto
 
 ## Modo de Preparo
