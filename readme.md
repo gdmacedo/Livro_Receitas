@@ -1,6 +1,6 @@
 # Livro de Receitas
 
-## [Farofa Mineira](https://github.com/gdmacedo/Livro_Receitas/Farofa_Mineira.md) ##
+## [Farofa Mineira](https://github.com/gdmacedo/Livro_Receitas/blob/main/Farofa-Mineira.md) ##
 
 Readme de prática do curso de introdução e mão na massa ao GitHub
 
