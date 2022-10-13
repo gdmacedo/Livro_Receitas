@@ -1,6 +1,6 @@
 # Farofa Mineira
 
-![Farofa Mineira do dia 12 de outubro de 2022.](https://github.com/gdmacedo/Livro_Receitas/Farofa_Minieira.jpeg)
+![Farofa Mineira do dia 12 de outubro de 2022.](https://raw.githubusercontent.com/gdmacedo/Livro_Receitas/main/Farofa-Mineira.jpeg)
 
 ## Ingredientes
 100 g de manteiga com sal
