@@ -1,4 +1,6 @@
-#Livro de Receitas
+# Livro de Receitas
+
+## [Farofa Mineira](https://github.com/gdmacedo/Livro_Receitas/Farofa_Mineira.md) ##
 
 Readme de prática do curso de introdução e mão na massa ao GitHub
 
@@ -10,5 +12,6 @@ Dessa forma, compartilhor aqui as minhas anotações e exercícios nesse própri
 
 Podendo assim Crir, o primeiro [de muitos] projetos do meu portfólio.
 
-Docente: Dr. Venilton Falvo Junior.
-Aluno..: Macedo, Glener Diniz.
+**Docente**: *Dr. Venilton Falvo Junior.*
+
+**Aluno**..: *Macedo, Glener Diniz.*
